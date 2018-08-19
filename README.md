@@ -1,3 +1,5 @@
+PHP使用Beanstalkd需要安装Pheanstalk
+
 Pheanstalk
 ==========
 
